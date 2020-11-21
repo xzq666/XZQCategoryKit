@@ -1,0 +1,16 @@
+PODS:
+  - XZQCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XZQCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XZQCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XZQCategoryKit: 54178200b6f3639b33791fa8e91e353428734590
+
+PODFILE CHECKSUM: 54989ff076781d2dc97e3ef7399a2d39282e34a6
+
+COCOAPODS: 1.9.1

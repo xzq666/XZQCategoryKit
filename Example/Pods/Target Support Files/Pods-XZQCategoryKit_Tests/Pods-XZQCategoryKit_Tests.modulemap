@@ -1,0 +1,6 @@
+framework module Pods_XZQCategoryKit_Tests {
+  umbrella header "Pods-XZQCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

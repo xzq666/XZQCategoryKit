@@ -1,0 +1,6 @@
+framework module XZQCategoryKit {
+  umbrella header "XZQCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
